@@ -1,0 +1,41 @@
+nav{
+    background-color: rgba(0, 0, 0,0.7);
+    width: 1500px;
+    padding: 20px;
+
+    }
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 28px;
+}
+.text{
+    background-color: lightskyblue;
+    width: 1500px;
+    height: 3000px;
+    padding: 5px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight:500;
+    }
+.space{
+    background-color: rgb(203, 111, 80);
+    width: 1500px;
+    height: 3000px;
+    padding: 5px;
+    }
+.line{
+    background-color: rgb(151, 249, 155);
+    width: 1500px;
+    height: 3000px;
+    padding: 5px;
+}
+.all{
+    background-color: rgb(240, 228, 103);
+    width: 1500px;
+    height: 3000px;
+    padding: 5px;
+}
